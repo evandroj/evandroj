@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn new things
 - 🌱 I’m currently learning Java and ReactNative
 - 💞️ I’m looking to collaborate on public and private projects
-- 📫 How to reach me evandro@omdsolucoes.com.br
+- 📫 How to reach me evandro.oj66@gmail.com
 
 <!---
 evandroj/evandroj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
